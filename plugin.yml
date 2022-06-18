@@ -1,0 +1,12 @@
+name: Bridge
+version: 1.0
+api-version: 1.8
+author: [Eltik, SinXIV]
+main: endran.bridge.App
+commands:
+  setmap:
+    description: Sets the map.
+  createmap:
+    description: Creates a map.
+  test:
+    description: Test command.
